@@ -1,11 +1,11 @@
 {
-    "name": "ophimcms/theme-bcco",
+    "name": "shinchill/theme-bcco",
     "description": "Ophim's bcco theme",
     "type": "library",
     "authors": [
         {
-            "name": "ophimcms",
-            "email": "opdlnf01@gmail.com"
+            "name": "shinchill",
+            "email": "shinchill@gmail.com"
         }
     ],
     "require": {
